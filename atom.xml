@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chan&#39;s Blog</title>
+  
+  
+  <link href="https://suchanmyoung.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://suchanmyoung.github.io/"/>
+  <updated>2022-12-13T04:20:07.905Z</updated>
+  <id>https://suchanmyoung.github.io/</id>
+  
+  <author>
+    <name>Suchan Myoung</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>글쓰기 근육</title>
+    <link href="https://suchanmyoung.github.io/2022/12/06/writing-strengh/"/>
+    <id>https://suchanmyoung.github.io/2022/12/06/writing-strengh/</id>
+    <published>2022-12-06T13:09:01.000Z</published>
+    <updated>2022-12-13T04:20:07.905Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/younghakim1.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;/../images/younghakim.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;김영하는 감성에도 근육이 있다고 말한다. &lt;/p&gt;
+&lt;p&gt;감성 근육은 눈에 보이지는 않지만</summary>
+        
+      
+    
+    
+    
+    <category term="생각" scheme="https://suchanmyoung.github.io/categories/%EC%83%9D%EA%B0%81/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2021년 회고</title>
+    <link href="https://suchanmyoung.github.io/2021/12/25/2021-review/"/>
+    <id>https://suchanmyoung.github.io/2021/12/25/2021-review/</id>
+    <published>2021-12-25T13:08:34.000Z</published>
+    <updated>2022-12-13T04:20:53.757Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;🏃개발자가-되었다-상상도-못한-일이었다&quot;&gt;&lt;a href=&quot;#🏃개발자가-되었다-상상도-못한-일이었다&quot; class=&quot;headerlink&quot; title=&quot;🏃개발자가 되었다, 상상도 못한 일이었다&quot;&gt;&lt;/a&gt;🏃개발자가 되었다, 상상도 못한</summary>
+        
+      
+    
+    
+    
+    <category term="회고" scheme="https://suchanmyoung.github.io/categories/%ED%9A%8C%EA%B3%A0/"/>
+    
+    
+    <category term="2021년회고" scheme="https://suchanmyoung.github.io/tags/2021%EB%85%84%ED%9A%8C%EA%B3%A0/"/>
+    
+  </entry>
+  
+</feed>
